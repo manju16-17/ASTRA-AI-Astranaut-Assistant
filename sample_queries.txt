@@ -1,0 +1,12 @@
+Try these questions in the ASTRA-AI chat:
+
+What is the oxygen level?
+What is the CO2 level?
+What is the battery level?
+What is the temperature?
+What is the cabin pressure?
+What is the radiation level?
+What is the mission status?
+Are there any anomalies?
+What is happening in the spacecraft?
+Help
